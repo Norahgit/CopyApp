@@ -1,0 +1,25 @@
+# {
+  font-family: 'bia jamjuree', sans-serif;
+  text-decoration: none;
+}
+h1 h2 h3 h4 h5 h6 {
+  color: #808080;
+}
+p {
+  color: gray !important;
+}
+i {
+  font-size: 3rem;
+}
+.jumbotron {
+  background-image: url('./images/download\ 2.png');
+  background-repeat: no-repeat;
+  background-position: left;
+  background-size: cover;
+  object-fit: contain;
+}
+.cc-container {
+  width: 100%;
+  max-width: 700%;
+  margin: 0%;
+}
